@@ -11,27 +11,6 @@ profile:
     <p>Office #204</p>
     <p>210 Field Street</p>
     <p>Athens, Georgia 30602</p>
-	
-profile:
-  align: left
-  image: mote.png
-  Individual: >
-    <p>Dr. Thomas Mote</p>
-    <p>Principal Investigator</p>
-	
-profile:
-  align: center
-  image: paul_miller1.jpg
-  Individual: >
-    <p>Dr. Paul Miller</p>
-    <p>Co-Investigator</p>
-	
-profile:
-  align: right
-  image: ramseyer.jpg
-  Individual: >
-    <p>Dr. Craig Ramseyer</p>
-    <p>Co-Investigator</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
