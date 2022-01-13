@@ -29,15 +29,19 @@ profile:
   Individual: >
     <p>Dr. Thomas Mote</p>
     <p>Principal Investigator</p>
+	
 profile:
   align: center
   image: paul_miller1.jpg
   Individual: >
     <p>Dr. Paul Miller</p>
     <p>Co-Investigator</p>
+	
 profile:
   align: right
   image: ramseyer.jpg
   Individual: >
     <p>Dr. Craig Ramseyer</p>
     <p>Co-Investigator</p>
+
+---
