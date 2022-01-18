@@ -8,11 +8,6 @@ nav: true
 </header>
 
 
-
-    <div class="page-content">
-      <div class="wrapper">
-        <div class="post">
-
   <header class="post-header">
     <h1 class="post-title"></h1>
     <h5 class="post-description"></h5>
@@ -33,7 +28,7 @@ nav: true
 </td></tr>
 </table>
 <p><br /></p>
-<table border="1" cellspacing="0" cellpadding="0">
+<table border="1" cellspacing="0" cellpadding="2">
 <tr border="0">
 <p><strong>Dr. Paul Miller</strong></p>
 </tr>
@@ -84,7 +79,7 @@ nav: true
 </tr>
 <tr border="0">
 <td width="150">
-  <img src="../assets/img/Shelby Ingram.jpg" width="150" />
+  <img src="../assets/img/Shelby Ingram.jpeg" width="150" />
 </td>
 <td>
   Graduate student
@@ -111,18 +106,6 @@ nav: true
 <table border="0" cellspacing="0" cellpadding="0">
 <tr border="0"> 
 
-  </article>
-
-  
-
-  
-
-  
-
-</div>
-
-      </div>
-    </div>
 
     <footer>
 
@@ -165,8 +148,3 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 ga('create', 'UA-XXXXXXXXX', 'auto');
 ga('send', 'pageview');
 </script>
-
-
-  </body>
-
-</html>
