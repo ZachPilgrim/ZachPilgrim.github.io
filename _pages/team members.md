@@ -28,13 +28,13 @@ nav: true
 </td></tr>
 </table>
 <p><br /></p>
-<table border="1" cellspacing="0" cellpadding="2">
+<table border="1" cellspacing="0" cellpadding="10">
 <tr border="0">
 <p><strong>Dr. Paul Miller</strong></p>
 </tr>
 <tr border="0">
-<td width="150">
-<img src="../assets/img/paul_miller1.jpg" width="150" />
+<td width="300">
+<img src="../assets/img/paul_miller1.jpg" width="300" />
 </td>
 <td>
   Co-Investigator @ LSU
