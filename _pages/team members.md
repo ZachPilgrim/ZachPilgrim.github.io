@@ -5,8 +5,6 @@ title: teammembers
 description: All members and affiliates of our project across all different universities and institutions
 nav: true
 ---
-</header>
-
 
   <header class="post-header">
     <h1 class="post-title"></h1>
@@ -14,13 +12,14 @@ nav: true
   </header>
 
   <article class="post-content members clearfix">
-    <table cellspacing="0" cellpadding="0">
-<tr>
+    <table cellspacing="1" cellpadding="1">
+<table border="1" cellspacing="1" cellpadding="1">
+<tr border="1">
 <p><strong>Dr. Thomas Mote</strong></p>
 </tr>
-<tr>
-<td width="150">
-  <img src="../assets/img/Mote.png" width="150" />
+<tr border="1">
+<td width="200">
+  <img src="../assets/img/Mote.png" width="200" />
 </td>
 <td>
   Principal Investigator
@@ -28,13 +27,13 @@ nav: true
 </td></tr>
 </table>
 <p><br /></p>
-<table border="1" cellspacing="0" cellpadding="10">
-<tr border="0">
+<table border="1" cellspacing="1" cellpadding="1">
+<tr border="1">
 <p><strong>Dr. Paul Miller</strong></p>
 </tr>
-<tr border="0">
-<td width="300">
-<img src="../assets/img/paul_miller1.jpg" width="300" />
+<tr border="1">
+<td width="200">
+<img src="../assets/img/paul_miller1.jpg" width="200" />
 </td>
 <td>
   Co-Investigator @ LSU
@@ -43,13 +42,13 @@ nav: true
 </tr>
 </table>
 <p><br /></p>
-<table border="0" cellspacing="0" cellpadding="0">
-<tr border="0">
+<table border="1" cellspacing="1" cellpadding="1">
+<tr border="1">
 <p><strong>Dr. Craig Ramseyer</strong></p>
 </tr>
-<tr border="0">
-<td width="150">
-<img src="../assets/img/ramseyer.jpg" width="150" />
+<tr border="1">
+<td width="200">
+<img src="../assets/img/ramseyer.jpg" width="200" />
 </td>
 <td>
   Co-Investigator @ Virginia Tech
@@ -58,43 +57,43 @@ nav: true
 </tr>
 </table>
 <p><br /></p>
-<table border="0" cellspacing="0" cellpadding="0">
-<tr border="0">
+<table border="1" cellspacing="1" cellpadding="1">
+<tr border="1">
 <p><strong>Dr. Flavia Moraes</strong></p>                                                                                                                                                                 
 </tr>
-<tr border="0">
-<td width="150">
-  <img src="../assets/img/Flavia-Moraes-300x300.jpg" width="150" />
+<tr border="1">
+<td width="200">
+  <img src="../assets/img/Flavia-Moraes-300x300.jpg" width="200" />
 </td>
 <td>
-  Previous Student                                                                                                                                                                          
+  Previous Graduate Student                                                                                                                                                                          
   <br />fmoraes@gsu.edu                                                                                                                                                                          
 </td>
 </tr>
 </table>
 <p><br /></p>
-<table border="0" cellspacing="0" cellpadding="0">
-<tr border="0">
+<table border="1" cellspacing="1" cellpadding="1">
+<tr border="1">
 <p><strong>Shelby Ingram</strong></p>                                                                                                                                                                 
 </tr>
-<tr border="0">
-<td width="150">
-  <img src="../assets/img/Shelby Ingram.jpeg" width="150" />
+<tr border="1">
+<td width="200">
+  <img src="../assets/img/Shelby Ingram.jpeg" width="200" />
 </td>
 <td>
   Graduate student
-  <br />Shelby.Ingram@uga.edu
+  <br />shelby.ingram@uga.edu
 </td>
 </tr>
 </table>
 <p><br /></p>
-<table border="0" cellspacing="0" cellpadding="0">
-<tr border="0">
+<table border="1" cellspacing="1" cellpadding="1">
+<tr border="1">
 <p><strong>Zach Pilgrim</strong></p>
 </tr>
-<tr border="0">
-<td width="150">
-  <img src="../assets/img/Pilgrim.jpg" width="150" />
+<tr border="1">
+<td width="200">
+  <img src="../assets/img/Pilgrim.jpg" width="200" />
 </td>
 <td>
   Graduate student
@@ -105,19 +104,6 @@ nav: true
 <p><br /></p>
 <table border="0" cellspacing="0" cellpadding="0">
 <tr border="0"> 
-
-
-    <footer>
-
-  <div class="wrapper">
-    &copy; Copyright 2021 Kim Lab.
-    Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-
-    
-  </div>
-
-</footer>
-
 
     <!-- Load jQuery -->
 <script src="//code.jquery.com/jquery-1.12.4.min.js"></script>
